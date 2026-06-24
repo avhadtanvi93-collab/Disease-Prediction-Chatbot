@@ -1,0 +1,20 @@
+symptoms,disease
+fever headache body pain fatigue,Flu
+fever cough sore throat fatigue,Flu
+headache sensitivity to light nausea,Migraine
+severe headache blurred vision,Migraine
+runny nose cough sneezing,Common Cold
+cough sore throat runny nose,Common Cold
+fever body pain weakness,Viral Fever
+fever headache joint pain,Viral Fever
+high fever rash joint pain,Dengue
+fever chills sweating,Malaria
+vomiting diarrhea stomach pain,Food Poisoning
+nausea vomiting dehydration,Food Poisoning
+shortness of breath wheezing chest tightness,Asthma
+itching skin rash redness,Allergy
+burning urination pelvic pain,UTI
+joint pain swelling stiffness,Arthritis
+loss of taste smell cough,COVID-19
+persistent cough weight loss,TB
+chest pain breathlessness fatigue,Heart Disease

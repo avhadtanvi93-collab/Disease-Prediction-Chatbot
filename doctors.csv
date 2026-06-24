@@ -1,0 +1,13 @@
+
+disease,doctor_name,specialization,location,contact
+Flu,Dr. Amit Patil,General Physician,Nashik,9876543210
+Migraine,Dr. Sneha Joshi,Neurologist,Nashik,9123456789
+Common Cold,Dr. Rahul Deshmukh,General Physician,Nashik,9988776655
+Dengue,Dr. Priya Kulkarni,Physician,Nashik,9001122334
+Malaria,Dr. Sunil Pawar,Physician,Nashik,9011223344
+Asthma,Dr. Neha Sharma,Pulmonologist,Nashik,8899776655
+Food Poisoning,Dr. Kiran Jadhav,Gastroenterologist,Nashik,8877665544
+UTI,Dr. Pooja Kulkarni,Urologist,Nashik,7766554433
+Arthritis,Dr. Mahesh Patil,Orthopedic,Nashik,9988443322
+COVID-19,Dr. Anjali Mehta,Physician,Nashik,8877996655
+Heart Disease,Dr. Rajesh Shah,Cardiologist,Nashik,9009988776
